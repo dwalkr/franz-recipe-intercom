@@ -1,0 +1,15 @@
+{
+    "id": "intercom",
+    "name": "Intercom",
+    "version": "1.0.1",
+    "description": "Intercom",
+    "main": "index.js",
+    "author": "DJ Walker",
+    "license": "MIT",
+    "repository": "",
+    "config": {
+      "serviceURL": "https://app.intercom.io/",
+      "hasNotificationSound": true,
+      "hasIndirectMessages": true
+    }
+  }
